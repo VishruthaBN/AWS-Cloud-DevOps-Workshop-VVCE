@@ -8,7 +8,7 @@
 
 Welcome to the hands-on workshop! By the end of this session you'll have:
 
-- Hosted a website on a real cloud server (AWS EC2)
+- Host a resume/website on a real cloud server (AWS EC2)
 - Set up an automated deployment pipeline using GitHub Actions
 - Packaged your app into a Docker container and published it to Docker Hub
 
